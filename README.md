@@ -1,1 +1,1 @@
-# SeleniumJenkinsTest1
+# selenium-jenkins-test
